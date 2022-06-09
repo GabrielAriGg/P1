@@ -18,7 +18,7 @@ input {
     height: 30px;
 }
 
-#hipervinculo {
+#hipervinculo,.hiper {
     color: yellowgreen;
 }
 form {

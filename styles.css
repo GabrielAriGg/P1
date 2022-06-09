@@ -21,8 +21,11 @@ input {
     color: green;
 }
 p {
-  color: gray;
+  color: rgb(110, 163, 67);
 }
 form {
     text-align: center;
+}
+pre {
+    color: gray;
 }

@@ -3,29 +3,35 @@ h1 {
     text-align: center;
 }
 body {
-    background-color: #003000;
+    background-color:rgb(10, 37, 10);
 }
 button {
     text-align: center;
     color:gray;
-    background-color: #003000;
+    background-color: darkgreen;
     width: 80px;
     height: 40px;
 }
 input {
-    background-color: #adff9a;
+    background-color: yellowgreen;
     width: 300px;
     height: 30px;
 }
+
 #hipervinculo {
-    color: green;
-}
-p {
-  color: rgb(110, 163, 67);
+    color: yellowgreen;
 }
 form {
     text-align: center;
 }
-pre {
-    color: gray;
+pre,p {
+    text-align: center;
+    color: rgb(110, 163, 67);
+}
+blockquote {
+    margin: 10px;
+    border: 2px solid yellowgreen;
+    padding: 5px;
+    text-align: center;
+    color: rgb(110, 163, 67);
 }
